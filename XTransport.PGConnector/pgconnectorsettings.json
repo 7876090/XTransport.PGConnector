@@ -1,0 +1,15 @@
+{
+  "ConnectionStrings": {
+    "NSIConnection ": "",
+    "NSIConnectionLocal": "User ID=postgres;Password=postgres;Host=localhost;Port=5432;Database=XTaho;",
+    "NSIConnectionLocalShtrih": "User ID=postgres;Password=2106;Host=localhost;Port=50000;Database=XTaho;",
+    "NSIConnectionServerAuto": "Server=10.222.222.108;Port=5432;User Id=postgres;Password=postgres;Pooling=true;Maximum Pool Size=10000;Database=XTaho;"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*"
+}
